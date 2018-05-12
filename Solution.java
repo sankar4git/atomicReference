@@ -1,4 +1,4 @@
-package atomicMovieSeats;
+//package atomicMovieSeats;
 
 import java.util.ArrayList;
 import java.util.List;
